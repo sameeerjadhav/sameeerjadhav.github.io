@@ -33,7 +33,7 @@ Data Scientist with 3 years of broad-based experience in building data-intensive
 -	Analyzed the complex datasets using R to track sales data of a retail client, reduced operation costs by 15% with techniques like market basket analysis, and delivered the data to the stakeholders
 
 ## Projects
-**Sign Speller (Best Education Hack winner in RevolutionUC Hackathon [Link](https://github.com/sameeerjadhav/RevolutionUC)**
+**Sign Speller (Best Education Hack winner in RevolutionUC Hackathon) [Link](https://github.com/sameeerjadhav/RevolutionUC)**
 -	Developed an innovative English to Sign Language translator, enabling children with pre-lingual deafness to access educational content on YouTube, Won the ‘Best Education Hack’ award among 200+ participants and 40+ projects
 
 **Wafer Sensor Fault Detection (Machine Learning, Automation) [Link](https://github.com/sameeerjadhav/WaferSensorFaultDetection)**
