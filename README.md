@@ -1,7 +1,3 @@
-# Data Scientist
-Welcome to my portfolio website! Here's an overview of my experience, skills, knowledge, and notable achievements
-
-
 ## Education						       		
 - **Master of Science in Computer Science** (_Data Science Spelization_)	| University of Cincinnati (_Present_)
   - Thesis and Research: _Large Language Model (LLM) powered Brain Computer Interface (BCI) applications_
