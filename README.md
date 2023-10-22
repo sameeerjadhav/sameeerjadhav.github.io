@@ -5,8 +5,26 @@ Welcome to my portfolio website! Here's an overview of my experience, skills, kn
 ## Education						       		
 - **Master of Science in Computer Science** (_Data Science Spelization_)	| University of Cincinnati (_Present_)
   - Thesis and Research: _Large Language Model (LLM) powered Brain Computer Interface (BCI) applications_
+  - Relevant Courses: 
+• Intelligent Data Analysis
+• Information Retrieval
+• Machine Learning
+• Deep Learning
+• Artificial Intelligence
+• Big Data Analytics
+• Advanced Methods in Machine Learning
+• Cloud Computing
+• Non Parametric Statistics
+• Supply Chain Cost Modeling
+• Applied Leadership in Project Teams
  
 - **Bachelor of Engineering in Information Technology** | University of Mumbai (_July 2019_)
+  - Relevant courses: 
+• Data Structure and Algorithm
+• Advanced Database Management System
+• Data Mining and Business Intelligence
+• Big Data Analytics
+• Object Oriented Programming Methodology   
 
 ## Technical Skills
 - **Programming and Scripting Languages and Database:** Python, R, SQL, MySQL
