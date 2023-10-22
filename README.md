@@ -45,7 +45,7 @@ Welcome to my portfolio website! Here's an overview of my experience, skills, kn
 - Generative AI with Large Language Models, _DeepLearning.ai_
 
 ## Accomplishments
-- Recipient of multiple academic awards and fellowship, totaling $52,994, including the Graduate Incentive Award, CEAS Modeling and Simulation Fellowship, Proctor & Gamble Simulation Center Student
+- Recipient of multiple academic awards and fellowship, totaling **$52,994**, including the Graduate Incentive Award, CEAS Modeling and Simulation Fellowship, Proctor & Gamble Simulation Center Student
 - Achieved second place in the 'UC Startup Competition' by ideating and crafting a sustainable startup
 
 
