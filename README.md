@@ -1,5 +1,5 @@
 ## Education						       		
-- **Master of Science in Computer Science** (_Data Science Spelization_)	| University of Cincinnati (_Present_)
+**Master of Science in Computer Science** (_Data Science Spelization_)	| University of Cincinnati (_Present_)
   - Thesis and Research: _Large Language Model (LLM) powered Brain Computer Interface (BCI) applications_
   - Relevant Courses: 
 • Intelligent Data Analysis
@@ -14,7 +14,7 @@
 • Supply Chain Cost Modeling
 • Applied Leadership in Project Teams
  
-- **Bachelor of Engineering in Information Technology** | University of Mumbai (_July 2019_)
+**Bachelor of Engineering in Information Technology** | University of Mumbai (_July 2019_)
   - Relevant courses: 
 • Data Structure and Algorithm
 • Advanced Database Management System
@@ -46,10 +46,10 @@
 -	Analyzed the complex datasets using R to track sales data of a retail client, reduced operation costs by 15% with techniques like market basket analysis, and delivered the data to the stakeholders
 
 ## Projects
-**Sign Speller (Best Education Hack winner in RevolutionUC Hackathon) [Link](https://github.com/sameeerjadhav/RevolutionUC)**
+**[Sign Speller](https://github.com/sameeerjadhav/RevolutionUC) (Best Education Hack winner in RevolutionUC Hackathon)**
 -	Developed an innovative English to Sign Language translator, enabling children with pre-lingual deafness to access educational content on YouTube, Won the ‘Best Education Hack’ award among 200+ participants and 40+ projects
 
-**Wafer Sensor Fault Detection (Machine Learning, Automation) [Link](https://github.com/sameeerjadhav/WaferSensorFaultDetection)**
+**[Wafer Sensor Fault Detection](https://github.com/sameeerjadhav/WaferSensorFaultDetection) (Machine Learning, Automation)**
 -	Created a comprehensive multi-model classification framework for predicting wafer sensor quality
 -	Established a robust end-to-end pipeline for automatic file preprocessing, enabling seamless preprocessing
 
