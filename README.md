@@ -1,5 +1,8 @@
+# Sameer Narendra Jadhav
+
 ## Education						       		
-**Master of Science in Computer Science** (_Data Science Spelization_)	| University of Cincinnati (_Present_)
+**Master of Science in Computer Science** (_Data Science Spelization_)
+_University of Cincinnati_ (_August 2021 - Present_)
   - Thesis and Research: _Large Language Model (LLM) powered Brain Computer Interface (BCI) applications_
   - Relevant Courses: 
 • Intelligent Data Analysis
@@ -14,7 +17,8 @@
 • Supply Chain Cost Modeling
 • Applied Leadership in Project Teams
  
-**Bachelor of Engineering in Information Technology** | University of Mumbai (_July 2019_)
+**Bachelor of Engineering in Information Technology**
+_University of Mumbai_ (_August 2016 - July 2019_)
   - Relevant courses: 
 • Data Structure and Algorithm
 • Advanced Database Management System
