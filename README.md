@@ -3,9 +3,10 @@ Welcome to my portfolio website! Here's an overview of my experience, skills, kn
 
 
 ## Education						       		
-- Master of Science in Computer Science (_Data Science Spelization_)	| University of Cincinnati (_Present_)
-  - Thesis and Research: _Large Language Model (LLM) powered Brain Computer Interface (BCI) applications_    
-- Bachelor of Engineering in Information Technology | University of Mumbai (_July 2019_)
+- **Master of Science in Computer Science** (_Data Science Spelization_)	| University of Cincinnati (_Present_)
+  - Thesis and Research: _Large Language Model (LLM) powered Brain Computer Interface (BCI) applications_
+ 
+- **Bachelor of Engineering in Information Technology** | University of Mumbai (_July 2019_)
 
 ## Technical Skills
 - **Programming and Scripting Languages and Database:** Python, R, SQL, MySQL
