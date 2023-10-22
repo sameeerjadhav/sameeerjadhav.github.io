@@ -1,4 +1,4 @@
-# Sameer Narendra Jadhav
+# Data Scientist
 
 ## Education						       		
 **Master of Science in Computer Science** (_Data Science Spelization_)
@@ -33,20 +33,20 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 - **Libraries and Frameworks:** NumPy, Pandas, Scikit-Learn, Keras, Matplotlib, Pytorch, Koalas, Streamlit, Spark, SciPy
 
 ## Work Experience
-**Data Science Research Intern, Procter & Gamble Digital Accelerator at UC, Cincinnati, Ohio (_August 2022 - Present_)**
+**Data Science Research Intern, Procter & Gamble Digital Accelerator at UC**, _Cincinnati, Ohio_ (_August 2022 - Present_)
 - Developing an Evidential Deep Learning model on multi-dimensional large datasets to predict the success rate of critical studies, enabling early identification of potential product quality issues and facilitating proactive remediation strategies
 - Selected to implement Procter & Gamble’s native frameworks for Evidential Deep Learning, conducting a comprehensive assessment to determine their superiority over third-party alternatives
 -	Built image analytics data pipeline on Azure Data Factory to assist P&G product designers in their product research
 -	Constructed large scale structured and unstructured data for modeling using Azure Databricks and Azure Blob Storage
 -	Created secure data visualization solutions using Power BI and Streamlit, enabling product designers and researchers to view image segmentations and metrics from Databricks and Azure Blob Storage
 
-**Application Development Analyst, Accenture, Mumbai, India (_August 2019 - July 2021_)**
+**Application Development Analyst**, _Accenture, Mumbai, India_ (_August 2019 - July 2021_)
 -	Identified potentially fraudulent claims more accurately than the legacy system, and flagged them for investigation
 -	Collaborated with cross-functional teams on anomaly detection of credit card transactions with the application of isolation forest, local outlier factor, and support vector machine classifiers
 -	Implemented automatic reserve prediction and improved claim processing operational efficiency by 10%
 -	Achieved prestigious Accenture Excellence Award for providing great and reliable value to client's business
 
-**Data Analyst Intern, Suven Consultants, Mumbai, India (_January 2019_)**
+**Data Analyst Intern, Suven Consultants**, _Mumbai, India_ (_January 2019_)
 -	Analyzed the complex datasets using R to track sales data of a retail client, reduced operation costs by 15% with techniques like market basket analysis, and delivered the data to the stakeholders
 
 ## Projects
