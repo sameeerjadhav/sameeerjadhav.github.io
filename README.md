@@ -27,10 +27,10 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 • Object Oriented Programming Methodology   
 
 ## Technical Skills
-- **Programming and Scripting Languages and Database:** Python, R, SQL, MySQL
-- **Tools:** Microsoft Azure, Databricks, Power BI, MLFlow, Tableau, PyCharm, VS Code, JIRA, Git, Airflow, Kafka
-- **Skills:** Machine Learning, Deep Learning, MLOps, Statistical Modeling, Predictive Modeling, Automation, Big Data, Hadoop, Cloud Computing, Structured and unstructured databases, A/B Testing, Clustering, Segmentation, Docker
-- **Libraries and Frameworks:** NumPy, Pandas, Scikit-Learn, Keras, Matplotlib, Pytorch, Koalas, Streamlit, Spark, SciPy
+- Programming and Scripting Languages and Database: Python, R, SQL, MySQL
+- Tools: Microsoft Azure, Databricks, Power BI, MLFlow, Tableau, PyCharm, VS Code, JIRA, Git, Airflow, Kafka
+- Skills: Machine Learning, Deep Learning, MLOps, Statistical Modeling, Predictive Modeling, Automation, Big Data, Hadoop, Cloud Computing, Structured and unstructured databases, A/B Testing, Clustering, Segmentation, Docker
+- Libraries and Frameworks: NumPy, Pandas, Scikit-Learn, Keras, Matplotlib, Pytorch, Koalas, Streamlit, Spark, SciPy
 
 ## Work Experience
 **Data Science Research Intern, Procter & Gamble Digital Accelerator at UC**, _Cincinnati, Ohio_ (_August 2022 - Present_)
