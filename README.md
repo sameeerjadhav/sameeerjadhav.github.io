@@ -3,7 +3,7 @@
 ## Education						       		
 **Master of Science in Computer Science** (_Data Science Specialization_)
 _University of Cincinnati_ (_August 2021 - Present_)
-  - Thesis and Research: _Large Language Model (LLM) powered Brain Computer Interface (BCI) applications_
+  - Thesis and Research: Large Language Model (LLM) powered Brain Computer Interface (BCI) applications
   - Relevant Courses: 
 • Intelligent Data Analysis
 • Information Retrieval
