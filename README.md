@@ -33,7 +33,7 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 - Libraries and Frameworks: NumPy, Pandas, Scikit-Learn, Keras, Matplotlib, Pytorch, Koalas, Streamlit, Spark, SciPy
 
 ## Work Experience
-**Data Science Research Intern, Procter & Gamble Digital Accelerator at UC**, _Cincinnati, Ohio_ (_August 2022 - Present_)
+**Data Science Research Intern**, _Procter & Gamble Digital Accelerator at UC, Cincinnati, Ohio_ (_August 2022 - Present_)
 - Developing an Evidential Deep Learning model on multi-dimensional large datasets to predict the success rate of critical studies, enabling early identification of potential product quality issues and facilitating proactive remediation strategies
 - Selected to implement Procter & Gamble’s native frameworks for Evidential Deep Learning, conducting a comprehensive assessment to determine their superiority over third-party alternatives
 -	Built image analytics data pipeline on Azure Data Factory to assist P&G product designers in their product research
@@ -46,7 +46,7 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 -	Implemented automatic reserve prediction and improved claim processing operational efficiency by 10%
 -	Achieved prestigious Accenture Excellence Award for providing great and reliable value to client's business
 
-**Data Analyst Intern**, _Suven Consultants**, Mumbai, India_ (_January 2019_)
+**Data Analyst Intern**, _Suven Consultants, Mumbai, India_ (_January 2019_)
 -	Analyzed the complex datasets using R to track sales data of a retail client, reduced operation costs by 15% with techniques like market basket analysis, and delivered the data to the stakeholders
 
 ## Projects
