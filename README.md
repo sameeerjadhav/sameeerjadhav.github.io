@@ -46,7 +46,7 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 -	Implemented automatic reserve prediction and improved claim processing operational efficiency by 10%
 -	Achieved prestigious Accenture Excellence Award for providing great and reliable value to client's business
 
-**Data Analyst Intern, Suven Consultants**, _Mumbai, India_ (_January 2019_)
+**Data Analyst Intern**, _Suven Consultants**, Mumbai, India_ (_January 2019_)
 -	Analyzed the complex datasets using R to track sales data of a retail client, reduced operation costs by 15% with techniques like market basket analysis, and delivered the data to the stakeholders
 
 ## Projects
