@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## Education						       		
-**Master of Science in Computer Science** (_Data Science Spelization_)
+**Master of Science in Computer Science** (_Data Science Specialization_)
 _University of Cincinnati_ (_August 2021 - Present_)
   - Thesis and Research: _Large Language Model (LLM) powered Brain Computer Interface (BCI) applications_
   - Relevant Courses: 
