@@ -57,7 +57,7 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 -	Created a comprehensive multi-model classification framework for predicting wafer sensor quality
 -	Established a robust end-to-end pipeline for automatic file preprocessing, enabling seamless preprocessing
 
-## Certification
+## Certifications
 - Microsoft Azure Data Scientist Associate (DP-100), _Microsoft_
 - Microsfot Azure Data Fundamentals (DP-900), _Microsoft_
 - Generative AI with Large Language Models, _DeepLearning.ai_
