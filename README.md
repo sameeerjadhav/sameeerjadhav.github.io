@@ -1,7 +1,5 @@
 # Data Scientist
-
-## Professional Summary
-Data Scientist with 3 years of broad-based experience in building data-intensive applications. Proficient in data modeling, data processing, and machine learning algorithms, as well as programming languages including Python and R. Capable of improving the legacy systems to translate business and functional qualifications into substantial deliverables. A highly motivated individual with a penchant for gaining in-depth knowledge and excellent communication skills, seeking a data science role.
+Welcome to my portfolio website! Here's an overview of my experience, skills, knowledge, and notable achievements
 
 
 ## Education						       		
