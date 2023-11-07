@@ -51,6 +51,9 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 
 ## Projects
 **[Safe-Roads: Navigating Safety](https://github.com/sameeerjadhav/safe-roads)**
+
+<p align="center"> <img src="img/signspeller.png" alt="Safe Roads" width="300" height="300"> </p>
+
 - Received 'Best Creative Use of Github' and 'Best Security Hack' awards for innovative contributions to road safety
 - Successfully integrated Google Maps into the Streamlit platform, expanding the project's technological capabilities.
 - Conducted data analysis and implemented data-driven safety assessments for route recommendations, providing users with safety insights.
