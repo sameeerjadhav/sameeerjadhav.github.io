@@ -19,7 +19,7 @@ _University of Cincinnati_ (_August 2021 - Present_)
  
 **Bachelor of Engineering in Information Technology**
 _University of Mumbai_ (_August 2016 - July 2019_)
-  - Relevant courses: 
+  - Relevant Courses: 
 • Data Structure and Algorithm
 • Advanced Database Management System
 • Data Mining and Business Intelligence
