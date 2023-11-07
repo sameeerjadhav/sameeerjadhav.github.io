@@ -50,7 +50,7 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 -	Analyzed the complex datasets using R to track sales data of a retail client, reduced operation costs by 15% with techniques like market basket analysis, and delivered the data to the stakeholders
 
 ## Projects
-**[Safe-Roads: Navigating Safety](https://github.com/sameeerjadhav/safe-roads) (Best Security Hack winner in MakeUC Hackathon**
+**[Safe-Roads: Navigating Safety](https://github.com/sameeerjadhav/safe-roads) (Best Security Hack winner in MakeUC Hackathon)**
 
 <p align="center"> <img src="img/signspeller.png" alt="Safe Roads" width="300" height="300"> </p>
 
