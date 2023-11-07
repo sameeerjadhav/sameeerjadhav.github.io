@@ -53,7 +53,7 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 **[Sign Speller](https://github.com/sameeerjadhav/RevolutionUC) (Best Education Hack winner in RevolutionUC Hackathon)**
 -	Developed an innovative English to Sign Language translator, enabling children with pre-lingual deafness to access educational content on YouTube, Won the ‘Best Education Hack’ award among 200+ participants and 40+ projects
 
-**[Wafer Sensor Fault Detection](https://github.com/sameeerjadhav/WaferSensorFaultDetection) (Machine Learning, Automation)**
+**[Sensor-Sentinel: Quality Assurance Redefined by AI](https://github.com/sameeerjadhav/SensorSentinel) (Machine Learning, Automation)**
 -	Created a comprehensive multi-model classification framework for predicting wafer sensor quality
 -	Established a robust end-to-end pipeline for automatic file preprocessing, enabling seamless preprocessing
 
