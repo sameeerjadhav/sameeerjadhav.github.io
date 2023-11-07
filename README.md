@@ -50,18 +50,24 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 -	Analyzed the complex datasets using R to track sales data of a retail client, reduced operation costs by 15% with techniques like market basket analysis, and delivered the data to the stakeholders
 
 ## Projects
-**[Safe-Roads: Navigating Safety](https://github.com/sameeerjadhav/safe-roads)**
+**[Safe-Roads: Navigating Safety](https://github.com/sameeerjadhav/safe-roads) (Best Security Hack winner in MakeUC Hackathon**
 
 <p align="center"> <img src="img/signspeller.png" alt="Safe Roads" width="300" height="300"> </p>
 
 - Received 'Best Creative Use of Github' and 'Best Security Hack' awards for innovative contributions to road safety
-- Successfully integrated Google Maps into the Streamlit platform, expanding the project's technological capabilities.
-- Conducted data analysis and implemented data-driven safety assessments for route recommendations, providing users with safety insights.
+- Successfully integrated Google Maps into the Streamlit platform, expanding the project's technological capabilities
+- Conducted data analysis and implemented data-driven safety assessments for route recommendations, providing users with safety insights
 
 **[Sign Speller](https://github.com/sameeerjadhav/RevolutionUC) (Best Education Hack winner in RevolutionUC Hackathon)**
+
+<p align="center"> <img src="img/SignSpeller (1).png" alt="Safe Roads" width="300" height="300"> </p>
+
 -	Developed an innovative English to Sign Language translator, enabling children with pre-lingual deafness to access educational content on YouTube, Won the ‘Best Education Hack’ award among 200+ participants and 40+ projects
 
 **[Sensor-Sentinel: Quality Assurance Redefined by AI](https://github.com/sameeerjadhav/SensorSentinel) (Machine Learning, Automation)**
+
+<p align="center"> <img src="img/SensorSentinel (1).png" alt="Safe Roads" width="300" height="300"> </p>
+
 -	Created a comprehensive multi-model classification framework for predicting wafer sensor quality
 -	Established a robust end-to-end pipeline for automatic file preprocessing, enabling seamless preprocessing
 
