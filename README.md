@@ -50,6 +50,11 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 -	Analyzed the complex datasets using R to track sales data of a retail client, reduced operation costs by 15% with techniques like market basket analysis, and delivered the data to the stakeholders
 
 ## Projects
+**[Safe-Roads: Navigating Safety](https://github.com/sameeerjadhav/safe-roads)**
+- Received 'Best Creative Use of Github' and 'Best Security Hack' awards for innovative contributions to road safety
+- Successfully integrated Google Maps into the Streamlit platform, expanding the project's technological capabilities.
+- Conducted data analysis and implemented data-driven safety assessments for route recommendations, providing users with safety insights.
+
 **[Sign Speller](https://github.com/sameeerjadhav/RevolutionUC) (Best Education Hack winner in RevolutionUC Hackathon)**
 -	Developed an innovative English to Sign Language translator, enabling children with pre-lingual deafness to access educational content on YouTube, Won the ‘Best Education Hack’ award among 200+ participants and 40+ projects
 
