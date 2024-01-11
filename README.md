@@ -1,5 +1,7 @@
 # Data Scientist
 
+<p align="center"> <img src="img/badge.png" alt="Safe Roads" width="300" height="300"> </p>
+
 ## Education						       		
 **Master of Science in Computer Science** (_Data Science Specialization_)
 _University of Cincinnati_ (_August 2021 - Present_)
