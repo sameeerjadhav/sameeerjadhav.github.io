@@ -1,6 +1,6 @@
 <!--# Data Scientist <p align="center"> <img src="img/TopAI.png" alt="TopAI" width="50%" height="50%"> </p>-->
 
-# Data Scientist <sup><img src="img/TopAI.png" alt="TopAI" width="10%" height="20"></sup>
+# Data Scientist <sup><img src="img/TopAI.png" alt="TopAI" width="16%" height="20"></sup>
 
 
 
