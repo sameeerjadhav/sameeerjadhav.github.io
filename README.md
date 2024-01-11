@@ -1,6 +1,6 @@
 # Data Scientist
 
-<p align="center"> <img src="img/badge.png" alt="Safe Roads" width="300" height="300"> </p>
+<p align="center"> <img src="img/badge.png" alt="Safe Roads" width="807" height="422"> </p>
 
 ## Education						       		
 **Master of Science in Computer Science** (_Data Science Specialization_)
