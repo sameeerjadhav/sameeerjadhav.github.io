@@ -29,12 +29,14 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 • Big Data Analytics
 • Object Oriented Programming Methodology   
 
+---
 ## Technical Skills
 - Programming and Scripting Languages and Database: Python, R, SQL, MySQL
 - Tools: Microsoft Azure, Databricks, Power BI, MLFlow, Tableau, PyCharm, VS Code, JIRA, Git, Airflow, Kafka
 - Skills: Machine Learning, Deep Learning, MLOps, Statistical Modeling, Predictive Modeling, Automation, Big Data, Hadoop, Cloud Computing, Structured and unstructured databases, A/B Testing, Clustering, Segmentation, Docker
 - Libraries and Frameworks: NumPy, Pandas, Scikit-Learn, Keras, Matplotlib, Pytorch, Koalas, Streamlit, Spark, SciPy
 
+---
 ## Work Experience
 **Data Science Research Intern**, _Procter & Gamble Digital Accelerator at UC, Cincinnati, Ohio_ (_August 2022 - Present_)
 - Developing an Evidential Deep Learning model on multi-dimensional large datasets to predict the success rate of critical studies, enabling early identification of potential product quality issues and facilitating proactive remediation strategies
@@ -52,6 +54,7 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 **Data Analyst Intern**, _Suven Consultants, Mumbai, India_ (_January 2019_)
 -	Analyzed the complex datasets using R to track sales data of a retail client, reduced operation costs by 15% with techniques like market basket analysis, and delivered the data to the stakeholders
 
+---
 ## Projects
 **[Safe-Roads: Navigating Safety](https://github.com/sameeerjadhav/safe-roads) (Best Security Hack winner in MakeUC Hackathon)**
 
@@ -74,11 +77,13 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 -	Created a comprehensive multi-model classification framework for predicting wafer sensor quality
 -	Established a robust end-to-end pipeline for automatic file preprocessing, enabling seamless preprocessing
 
+---
 ## Certifications
 - Microsoft Azure Data Scientist Associate (DP-100), _Microsoft_
 - Microsfot Azure Data Fundamentals (DP-900), _Microsoft_
 - Generative AI with Large Language Models, _DeepLearning.ai_
 
+---
 ## Accomplishments
 - Recipient of multiple academic awards and fellowship, totaling **$52,994**, including the Graduate Incentive Award, CEAS Modeling and Simulation Fellowship, Proctor & Gamble Simulation Center Student
 - Achieved second place in the 'UC Startup Competition' by ideating and crafting a sustainable startup
