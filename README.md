@@ -1,8 +1,6 @@
 <!--# Data Scientist <p align="center"> <img src="img/TopAI.png" alt="TopAI" width="50%" height="50%"> </p>-->
 
-# Data Scientist ( <img src="img/TopAI.png" alt="TopAI" width="25%" height="100%"> )
-
-
+# Data Scientist
 
 
 ## Education						       		
