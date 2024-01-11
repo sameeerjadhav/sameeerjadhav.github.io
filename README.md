@@ -1,6 +1,6 @@
-# Data Scientist
+# Data Scientist <p align="center"> <img src="img/TopAI.png" alt="TopAI" width="50%" height="50%"> </p>
 
-<p align="center"> <img src="img/TopAI.png" alt="TopAI" width="100%" height="100%"> </p>
+
 
 ## Education						       		
 **Master of Science in Computer Science** (_Data Science Specialization_)
