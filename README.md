@@ -31,17 +31,17 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 
 ---
 ## Technical Skills
-- Programming and Scripting Languages and Database: Python, R, SQL, MySQL
-- Tools: Microsoft Azure, Databricks, Power BI, MLFlow, Tableau, PyCharm, VS Code, JIRA, Git, Airflow, Kafka
-- Skills: Machine Learning, Deep Learning, MLOps, Statistical Modeling, Predictive Modeling, Automation, Big Data, Hadoop, Cloud Computing, Structured and unstructured databases, A/B Testing, Clustering, Segmentation, Docker
-- Libraries and Frameworks: NumPy, Pandas, Scikit-Learn, Keras, Matplotlib, Pytorch, Koalas, Streamlit, Spark, SciPy
+- Programming and Scripting Languages and Database: Python, R, SQL, Pinecone
+- Tools: Microsoft Azure, Databricks, Power BI, MLFlow, Tableau, PyCharm, VS Code, JIRA, Git, Airflow, Pinecone
+- Skills: Machine Learning, Deep Learning, Natural Language Processing, MLOps, Statistical Modeling, Predictive Modeling, Automation, Big Data, Hadoop, Cloud Computing, Structured and unstructured databases, A/B Testing, Clustering, Segmentation, Docker
+- Libraries and Frameworks: NumPy, Pandas, Scikit-Learn, Keras, Matplotlib, Pytorch, Koalas, Streamlit, Spark, SciPy, LangChain
 
 ---
 ## Work Experience
 **Data Science Research Intern**, _Procter & Gamble Digital Accelerator at UC, Cincinnati, Ohio_ (_August 2022 - Present_)
-- Developing an Evidential Deep Learning model on multi-dimensional large datasets to predict the success rate of critical studies, enabling early identification of potential product quality issues and facilitating proactive remediation strategies
+- Developing an advanced deep learning model on multi-dimensional large datasets to predict the success rate of critical studies, enabling early identification of potential product quality issues and facilitating proactive remediation strategies
 - Selected to implement Procter & Gamble’s native frameworks for Evidential Deep Learning, conducting a comprehensive assessment to determine their superiority over third-party alternatives
--	Built image analytics data pipeline on Azure Data Factory to assist P&G product designers in their product research
+-	Implemented and optimized image analytics data pipeline on Azure Data Factory to assist P&G product designers in their product research
 -	Constructed large scale structured and unstructured data for modeling using Azure Databricks and Azure Blob Storage
 -	Created secure data visualization solutions using Power BI and Streamlit, enabling product designers and researchers to view image segmentations and metrics from Databricks and Azure Blob Storage
 
@@ -56,6 +56,14 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 
 ---
 ## Projects
+
+**[Healthpedia AI: Your Wellness Companion](https://github.com/sameeerjadhav/Healthpedia_AI) (Llama 2, LangChain, Pinecone)**
+
+<p align="center"> <img src="img/Medical Bot.png" alt="Safe Roads" width="300" height="300"> </p>
+
+-	Engineered a sophisticated healthcare chatbot, utilizing LangChain, RetrievalQA, and Meta Llama2 for comprehensive disease and medicine-related insights.
+-	Implemented advanced NLP technologies such as Pinecone, CTransformers and HuggingFace embeddings for accurate and refined answers.
+
 **[Safe-Roads: Navigating Safety](https://github.com/sameeerjadhav/safe-roads) (Best Security Hack winner in MakeUC Hackathon)**
 
 <p align="center"> <img src="img/signspeller.png" alt="Safe Roads" width="300" height="300"> </p>
