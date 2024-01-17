@@ -41,7 +41,7 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 **Data Science Research Intern**, _Procter & Gamble Digital Accelerator at UC, Cincinnati, Ohio_ (_August 2022 - Present_)
 - Developing an advanced deep learning model on multi-dimensional large datasets to predict the success rate of critical studies, enabling early identification of potential product quality issues and facilitating proactive remediation strategies
 - Selected to implement Procter & Gamble’s native frameworks for Evidential Deep Learning, conducting a comprehensive assessment to determine their superiority over third-party alternatives
--	Implemented and optimized image analytics data pipeline on Azure Data Factory to assist P&G product designers in their product research
+-	Engineered a scalable image analytics pipeline on Azure Data Factory and Databricks, using Resnet and Unet deep learning models to automate product hypothesis assessment for P&G's Products Researchers and Product Designers. This streamlined process reduced manual data extraction by 100%, enabling the evaluation of 5,000+ consumer images and paving the way for future high-volume data processing
 -	Constructed large scale structured and unstructured data for modeling using Azure Databricks and Azure Blob Storage
 -	Created secure data visualization solutions using Power BI and Streamlit, enabling product designers and researchers to view image segmentations and metrics from Databricks and Azure Blob Storage
 
