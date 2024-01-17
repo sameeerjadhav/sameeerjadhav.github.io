@@ -39,20 +39,18 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 ---
 ## Work Experience
 **Data Science Research Intern**, _Procter & Gamble Digital Accelerator at UC, Cincinnati, Ohio_ (_August 2022 - Present_)
-- Developing an advanced deep learning model on multi-dimensional large datasets to predict the success rate of critical studies, enabling early identification of potential product quality issues and facilitating proactive remediation strategies
-- Selected to implement Procter & Gamble’s native frameworks for Evidential Deep Learning, conducting a comprehensive assessment to determine their superiority over third-party alternatives
--	Engineered a scalable image analytics pipeline on Azure Data Factory and Databricks, using Resnet and Unet deep learning models to automate product hypothesis assessment for P&G's Products Researchers and Product Designers. This streamlined process reduced manual data extraction by 100%, enabling the evaluation of 5,000+ consumer images and paving the way for future high-volume data processing
--	Constructed large scale structured and unstructured data for modeling using Azure Databricks and Azure Blob Storage
--	Created secure data visualization solutions using Power BI and Streamlit, enabling product designers and researchers to view image segmentations and metrics from Databricks and Azure Blob Storage
+- Developed an advanced deep learning model on multi-dimensional data to achieve a 46% uplift in product success prediction (RMSE 3.25 vs. 6 baseline), enabling proactive identification of potential quality flaws in pre-market studies
+-	Engineered a scalable image analytics pipeline on Azure Data Factory, using ResNet and U-Net deep learning models to automate product hypothesis assessment, eliminating manual work by 100% with high-volume data processing needs
+-	Pioneered & implemented a scalable Azure data environment (Databricks & Blob Storage), streamlining data for consumer research & image analytics, enabling efficient analysis of large-scale structured & unstructured data
+-	Developed and implemented secure data visualization solutions using Power BI and Streamlit, empowering product designers to seamlessly analyze image segmentations and metrics stored in Databricks and Azure Blob Storage
 
 **Application Development Analyst**, _Accenture, Mumbai, India_ (_August 2019 - July 2021_)
--	Identified potentially fraudulent claims more accurately than the legacy system, and flagged them for investigation
--	Collaborated with cross-functional teams on anomaly detection of credit card transactions with the application of isolation forest, local outlier factor, and support vector machine classifiers
--	Implemented automatic reserve prediction and improved claim processing operational efficiency by 10%
--	Achieved prestigious Accenture Excellence Award for providing great and reliable value to client's business
+-	Orchestrated seamless data exchange across 40+ inbound and outbound interfaces within a complex claims processing system, significantly reducing data transmission errors, ensuring data integrity, & enhancing application performance
+-	Single-handedly optimized claim processing speed by 93%, enabling faster incident reporting and earlier claim resolution through the successful integration of the EFNOL automation process
+-	Recipient of the esteemed Accenture Excellence Award for delivering exceptional value & exceeding client expectations
 
 **Data Analyst Intern**, _Suven Consultants, Mumbai, India_ (_January 2019_)
--	Analyzed the complex datasets using R to track sales data of a retail client, reduced operation costs by 15% with techniques like market basket analysis, and delivered the data to the stakeholders
+-	Conducted analysis on retail datasets using R, achieving a 15% reduction in operational costs through techniques such as market basket analysis, and delivered actionable insights to stakeholders, informing strategic decision-making
 
 ---
 ## Projects
