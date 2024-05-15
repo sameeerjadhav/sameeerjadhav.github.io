@@ -2,7 +2,7 @@
 
 # Data Scientist
 ---
-[Linkedin](www.linkedin.com/in/sameeerjadhav)
+[Linkedin](https://www.linkedin.com/in/sameeerjadhav/)
 ---
 
 ## Education						       		
