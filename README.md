@@ -99,6 +99,6 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 
 ---
 ## Contact
-[Linkedin](https://www.linkedin.com/in/sameeerjadhav/)
+- [Linkedin](https://www.linkedin.com/in/sameeerjadhav/)
 
 
