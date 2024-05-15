@@ -2,8 +2,6 @@
 
 # Data Scientist
 ---
-[Linkedin](https://www.linkedin.com/in/sameeerjadhav/)
----
 
 ## Education						       		
 **Master of Science in Computer Science** (_Data Science Specialization_)
@@ -98,5 +96,9 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 - Recognized as a ‘Top Artificial Intelligence Voice’ by LinkedIn for contributions to the AI community
 - Recipient of multiple academic awards and fellowship, totaling **$52,994**, including the Graduate Incentive Award, CEAS Modeling and Simulation Fellowship, Proctor & Gamble Simulation Center Student
 - Achieved second place in the 'UC Startup Competition' by ideating and crafting a sustainable startup
+
+---
+## Contact
+[Linkedin](https://www.linkedin.com/in/sameeerjadhav/)
 
 
