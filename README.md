@@ -2,6 +2,8 @@
 
 # Data Scientist
 ---
+[Linkedin](www.linkedin.com/in/sameeerjadhav)
+---
 
 ## Education						       		
 **Master of Science in Computer Science** (_Data Science Specialization_)
