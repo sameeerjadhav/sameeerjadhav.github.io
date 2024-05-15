@@ -40,6 +40,7 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 ## Work Experience
 **Data Science Research Intern**, _Procter & Gamble Digital Accelerator at UC, Cincinnati, Ohio_ (_August 2022 - Present_)
 - Developed an advanced deep learning model on multi-dimensional data to achieve a 46% uplift in product success prediction (RMSE 3.25 vs. 6 baseline), enabling proactive identification of potential quality flaws in pre-market studies
+- Developed an advanced mathematical model to predict headspace conditions (moisture & humidity) across varying environmental conditions (temperature, humidity, experiment duration), enabling sustainable packaging design for P&G
 -	Engineered a scalable image analytics pipeline on Azure Data Factory, using ResNet and U-Net deep learning models to automate product hypothesis assessment, eliminating manual work by 100% with high-volume data processing needs
 -	Pioneered & implemented a scalable Azure data environment (Databricks & Blob Storage), streamlining data for consumer research & image analytics, enabling efficient analysis of large-scale structured & unstructured data
 -	Developed and implemented secure data visualization solutions using Power BI and Streamlit, empowering product designers to seamlessly analyze image segmentations and metrics stored in Databricks and Azure Blob Storage
@@ -91,6 +92,7 @@ _University of Mumbai_ (_August 2016 - July 2019_)
 
 ---
 ## Accomplishments
+- Featured in the New York Business Journal discussing AI in business [Article Link](https://www.bizjournals.com/newyork/news/2024/05/14/how-businesses-using-ai-eight-new-york-leaders.html)
 - Recognized as a ‘Top Artificial Intelligence Voice’ by LinkedIn for contributions to the AI community
 - Recipient of multiple academic awards and fellowship, totaling **$52,994**, including the Graduate Incentive Award, CEAS Modeling and Simulation Fellowship, Proctor & Gamble Simulation Center Student
 - Achieved second place in the 'UC Startup Competition' by ideating and crafting a sustainable startup
